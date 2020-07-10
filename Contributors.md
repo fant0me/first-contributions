@@ -31,6 +31,7 @@
 - Elyahu Jacobi (https://github.com/Elyahu41)
 - Sarabjyot Singh 
 - Shivam Rawat
+- fant0me
 - Igho Okeoghene (https://github.com/igho-okeoghene)
 - [Harsh Kapadia](https://github.com/HarshKapadia2)
 - Aman jain (https://github.com/amanjainn)
