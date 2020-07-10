@@ -1,4 +1,6 @@
 # Contributors
+
+
 - [Szymon Jozefczuk](https://github.com/SimonJoz)
 - Jens Kuipers (https://github.com/jens-kuipers/)
 - Atia - first OSS contribution Yay!
@@ -256,6 +258,7 @@ Jeremiah Harkins
 - A. Gestin
 - [Jeremy Moudy](https://github.com/j-moudy)
 - Dhruv Sachdev (https://github.com/Dhruv-Sachdev)
+- fant0me ((https://github.com/fant0me)
 - [wilsoncode](https://github.com/wilsoncode)
 - Mihir Rane (https://github.com/ranemihir)
 - [Nirbhay Singh](https://github.com/Nirbhay007)
